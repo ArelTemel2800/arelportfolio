@@ -1,0 +1,12 @@
+# IDEs and Editors
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project specific
+.artifacts/
+*.log
